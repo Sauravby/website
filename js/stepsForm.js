@@ -214,7 +214,7 @@
 		var message = '';
 		switch( err ) {
 			case 'EMPTYSTR' : 
-				message = 'Please fill the field before continuing';
+				message = 'Please fill the field before continue';
 				break;
 			case 'INVALIDEMAIL' : 
 				message = 'Please fill a valid email address';
