@@ -1,0 +1,4 @@
+background: radial-gradient(circle, #efa64d 10%, transparent 11%),radial-gradient(circle at bottom left, #efa64d 5%, transparent 6%),radial-gradient(circle at bottom right, #efa64d 5%, transparent 6%),radial-gradient(circle at top left, #efa64d 5%, transparent 6%),radial-gradient(circle at top right, #efa64d 5%, transparent 6%);
+        background-size: 2em 2em;
+        background-color: #ffffff;
+        opacity: 1
